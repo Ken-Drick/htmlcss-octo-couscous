@@ -1,0 +1,41 @@
+body{
+	background-image: url(pics/1_42ebJizcUtZBNIZPmmMZ5Q.jpeg);
+    background-size: cover;
+}
+.main{
+    background-color:#da954f;
+	color:#000000;
+
+	border-right:5px red solid;
+	border-left:5px red solid;
+	border-top:5px red solid;
+	border-bottom:5px red solid;
+	border-width:3px;
+	border-bottom-width:10px;
+	border-top-style:dotted;
+    width: 700px;
+
+	border: 5px rgb(178, 106, 47) solid;
+
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-right:15px;
+	padding-left:15px;
+
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+
+    text-align: center;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table, th, td{
+    border: 3px solid rgb(127, 89, 45);
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}

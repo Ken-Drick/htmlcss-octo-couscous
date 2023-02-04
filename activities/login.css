@@ -1,0 +1,50 @@
+body{
+	background-image: url(pics/inugami-korone-and-nekomata-okayu-virtual-youtuber-girl-wallpaper-2048x1536_26.jpg);
+    background-size: cover;
+}
+.main{
+    background-color:#9caddc;
+	color:#fff;
+
+	border-right:5px red solid;
+	border-left:5px red solid;
+	border-top:5px red solid;
+	border-bottom:5px red solid;
+	border-width:3px;
+	border-bottom-width:10px;
+	border-top-style:dotted;
+    width: 500px;
+
+	border: 5px rgb(29, 49, 159) solid;
+
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-right:15px;
+	padding-left:15px;
+
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+
+    text-align: center;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-group input[type="text"], .form-group textareax{
+    padding:8px;
+	width: 75%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button{
+    width: 30%;
+    background-color: #2c4997;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-color: #2a2c32;
+}

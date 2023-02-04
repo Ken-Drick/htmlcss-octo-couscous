@@ -1,0 +1,59 @@
+body{
+	background-image: url(pics/wp2151431.jpg);
+    background-size: cover;
+}
+.main{
+    background-color:#c77b2f;
+	color:#fff;
+
+	border-right:5px red solid;
+	border-left:5px red solid;
+	border-top:5px red solid;
+	border-bottom:5px red solid;
+	border-width:3px;
+	border-bottom-width:10px;
+	border-top-style:dotted;
+    width: 500px;
+
+	border: 5px rgb(156, 71, 2) solid;
+
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-right:15px;
+	padding-left:15px;
+
+	padding:20px;
+
+	margin-top:20px;
+	margin:20px 0;
+
+    text-align: center;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button{
+    width: 30%;
+    background-color: #b7691b;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-color: #2a2c32;
+}
+.final-form input[type="text"], .final-form textareax{
+    padding:8px;
+	width: 75%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.final-form input[type="email"], .final-form textareax{
+    padding:8px;
+	width: 75%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
